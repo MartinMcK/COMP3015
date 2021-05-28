@@ -4,3 +4,5 @@ C:\Users\rossg\OneDrive\Documents\COMP3015 Work\Project_Template_Diffuse - Copy\
 C:\Users\rossg\OneDrive\Documents\COMP3015 Work\Project_Template_Diffuse - Copy\Project_Template\x64\Debug\Project_Template.pdb
 C:\Users\rossg\OneDrive\Documents\COMP3015 Work\Project_Template_Diffuse - Copy - Copy\Project_Template\x64\Debug\Project_Template.exe
 C:\Users\rossg\OneDrive\Documents\COMP3015 Work\Project_Template_Diffuse - Copy - Copy\Project_Template\x64\Debug\Project_Template.pdb
+E:\Github\COMP3015\Project_Template\x64\Debug\Project_Template.exe
+E:\Github\COMP3015\Project_Template\x64\Debug\Project_Template.pdb
